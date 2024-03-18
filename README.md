@@ -3,7 +3,7 @@
 ## I'm a Data Analyst🔭
 
 ### 🛠 &nbsp;Tech Stack
-<img src="https://img.shields.io/badge/python-darkslategray?style=for-the-badge&logo=python&logoColor=gold" /> <img src="https://img.shields.io/badge/SQL-darkslategray?style=for-the-badge&logo=postgresql&logoColor=blue" /> <img src="https://img.shields.io/badge/excel-darkslategray?style=for-the-badge&logo=microsoftexcel&logoColor=green" /> <img src="https://img.shields.io/badge/power bi-darkslategray?style=for-the-badge&logo=powerbi&logoColor=yellow" /> <img src="https://img.shields.io/badge/markdown-darkslategray?style=for-the-badge&logo=markdown&logoColor=red" />  <img src="https://img.shields.io/badge/git hub-darkslategray?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/python-darkslategray?style=for-the-badge&logo=python&logoColor=gold" /> <img src="https://img.shields.io/badge/SQL-darkslategray?style=for-the-badge&logo=postgresql&logoColor=blue" /> <img src="https://img.shields.io/badge/excel-darkslategray?style=for-the-badge&logo=microsoftexcel&logoColor=green" /> <img src="https://img.shields.io/badge/power bi-darkslategray?style=for-the-badge&logo=powerbi&logoColor=yellow" /> <img src="https://img.shields.io/badge/markdown-darkslategray?style=for-the-badge&logo=markdown&logoColor=red" />  <img src="https://img.shields.io/badge/git hub-darkslategray?style=for-the-badge&logo=git&logoColor=white" />
 
 ### ✉️ &nbsp; Connect with me:
 <img src="https://img.shields.io/badge/telegram : @KKIzmaylov-darkslategray?style=for-the-badge&logo=telegram&logoColor=blue" /> 
